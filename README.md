@@ -1,6 +1,7 @@
 # Replikasi Parsial Spark untuk Peramalan Beban Listrik
 
-Repositori ini menyertai tugas Eksplorasi Mandiri Mahadata milik **Jana Rohman Wasiso (123140046)**.
+**Nama: Jana Rohman Wasiso** 
+**NIM: 123140046**
 
 ## Artikel utama
 
