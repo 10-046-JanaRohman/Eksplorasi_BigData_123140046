@@ -1,0 +1,16 @@
+{
+  "seed": 42,
+  "raw_records_after_cleaning": 954433,
+  "aggregate_rows": 39095,
+  "train_rows": 31276,
+  "test_rows": 7819,
+  "cutoff_timestamp": "2013-09-18 02:30:00",
+  "spark_version": "3.5.3",
+  "features": [
+    "hour",
+    "day_of_week",
+    "month",
+    "is_weekend",
+    "meter_count"
+  ]
+}
